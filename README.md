@@ -8,7 +8,7 @@ It is recommended to use a virtual environment to manage the project dependencie
 2. Create Virtual environment  'virtualenv myenv'
 3. Activate the environment 'myenv\Scripts\activate' 
     in macOs or Linux, 'source myenv/bin/activate'
-
+## API 
  
 The API uses a dataset file named `data.csv` located in the root directory
 Api 1:
